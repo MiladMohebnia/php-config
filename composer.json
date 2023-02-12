@@ -1,0 +1,22 @@
+{
+    "name": "milad/config",
+    "description": "This package will create simple config handler for projects",
+    "autoload": {
+        "psr-4": {
+            "miladm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miladm",
+            "email": "miladmohebnia@gmail.com"
+        }
+    ],
+    "platform": {
+        "php": "8.2",
+        "ext-json": "*"
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
