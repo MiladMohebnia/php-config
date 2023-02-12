@@ -1,6 +1,8 @@
 {
     "name": "milad/config",
     "description": "This package will create simple config handler for projects",
+    "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "miladm\\": "src/"
